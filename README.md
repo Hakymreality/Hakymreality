@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm an aspiring fullstack web developer that builds awesome web apps using the MERN Stack and blog about what I learn as a hobby.
+I'm a Front end web developer that builds awesome web apps using React.JS and its ecosystem, I also build mobile apps using React Native.
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
