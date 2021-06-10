@@ -16,17 +16,17 @@ I'm an aspiring fullstack web developer that builds awesome web apps using the M
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
 </p>
-I also play with WordPress in my freetime and do some UI/UX Design too.
+I also build apps with WordPress in my freetime and do some UI/UX Design too.
 
 ----
 
 ## 🔭 I'm currently working on.
 
-A Browser Based Real-time Strategy Game using Vanilla JS, HTML and CSS
+Building an audio focused social media
 
 ## 🌱 I’m currently learning.
-### Some JS Algorithms:
-Adding to my Javascript Knowledge and Practicing algorithms and data structures.
+### Backend Technologies:
+I'm learning Express and Node.js to become a fullstack developer
 
 ## 👯 I’m looking to collaborate on ...
 
@@ -39,7 +39,7 @@ NodeJS and ExpressJS
 
 ## 💬 Ask me about ...
 
-Vanilla JS, HTML, Bootstrap, CSS, Sass and WordPress.
+Vanilla JS, HTML, Bootstrap, CSS, Sass, WordPress, React. Redux and Next.js.
 
 ## 📫 Catch me on: ...
 
